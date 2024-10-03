@@ -14,6 +14,18 @@
 - [![LeetCode](https://img.shields.io/badge/LeetCode-00b8a3)](https://leetcode.com/problems/search-insert-position) Search Insert Position
 - [![LeetCode](https://img.shields.io/badge/LeetCode-00b8a3)](https://leetcode.com/problems/binary-search) Binary Search
 - [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) Find First and Last Position of Element in Sorted Array
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/search-in-rotated-sorted-array) Search in Rotated Sorted Array
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) Search in Rotated Sorted Array II
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/search-a-2d-matrix) Search a 2D Matrix
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/find-peak-element) Find Peak Element
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/find-a-peak-element-ii) Find Peak Element II
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) Find Minimum in Rotated Sorted Array
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ff375f)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) Find Minimum in Rotated Sorted Array II
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/search-a-2d-matrix-ii) Search a 2D Matrix II
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) Kth Smallest Element in a Sorted Matrix
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) Count Negative Numbers in a Sorted Matrix
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/longest-increasing-subsequence) Longest Increasing Subsequence
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/h-index-ii) H-Index II
 
 ## Алгоритмы
 
