@@ -32,7 +32,7 @@
 ### Классический бинарный поиск
 
 ```python
-def search(self, nums: List[int], target: int) -> int:
+def search(self, nums: list[int], target: int) -> int:
     l = 0
     r = len(nums) - 1
 
@@ -49,10 +49,17 @@ def search(self, nums: List[int], target: int) -> int:
     return -1
 ```
 
+```text
+Input: nums = [1, 3, 5, 6], target = 5
+Output: 2
+```
+
 ### Поиск левой границы элемента или отсутствия элемента
 
+Алгоритм для отсортированного массива с повторениями:
+
 ```python
-def binsearch_l(nums: List[int], target: int) -> int:
+def binsearch_l(nums: list[int], target: int) -> int:
     l = 0
     r = len(nums) - 1
 
@@ -64,7 +71,7 @@ def binsearch_l(nums: List[int], target: int) -> int:
         elif nums[m] > target:
             r = m - 1
         else:
-            # Проверка на достижение левой границы
+            # Проверка на достижение левой границы элемента
             if m == 0 or nums[m - 1] != nums[m]:
                 return m
             else:
@@ -73,10 +80,17 @@ def binsearch_l(nums: List[int], target: int) -> int:
     return -1
 ```
 
+```text
+Input: nums = [0, 2, 2, 2, 3, 3, 3], target = 2
+Output: 1
+```
+
 ### Поиск правой границы элемента или отсутствия элемента
 
+Алгоритм для отсортированного массива с повторениями:
+
 ```python
-def binsearch_r(nums: List[int], target: int) -> int:
+def binsearch_r(nums: list[int], target: int) -> int:
     l = 0
     r = len(nums) - 1
 
@@ -88,11 +102,16 @@ def binsearch_r(nums: List[int], target: int) -> int:
         elif nums[m] > target:
             r = m - 1
         else:
-            # Проверка на достижение правой границы
+            # Проверка на достижение правой границы элемента
             if m == len(nums) - 1 or nums[m] != nums[m + 1]:
                 return m
             else:
                 l = m + 1
 
     return -1
+```
+
+```text
+Input: nums = [0, 2, 2, 2, 3, 3, 3], target = 2
+Output: 3
 ```
