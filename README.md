@@ -32,7 +32,7 @@
 ### Stack
 
 - [![LeetCode](https://img.shields.io/badge/LeetCode-00b8a3)](https://leetcode.com/problems/valid-parentheses) Valid Parentheses
-- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/min-stack)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/min-stack) Min Stack
 
 ### Binary Search
 
