@@ -11,7 +11,9 @@
 - [![LeetCode](https://img.shields.io/badge/LeetCode-00b8a3)](https://leetcode.com/problems/flood-fill) Flood Fill
 - [![LeetCode](https://img.shields.io/badge/LeetCode-00b8a3)](https://leetcode.com/problems/number-of-islands) Number of Islands
 
-## Список смежности для представления графа
+## Алгоритмы
+
+### Список смежности для представления графа
 
 ```python
 graph = {
@@ -23,7 +25,7 @@ graph = {
 }
 ```
 
-## Матрица смежности для представления графа
+### Матрица смежности для представления графа
 
 ```python
 graph = [
@@ -35,7 +37,7 @@ graph = [
 ]
 ```
 
-## DFS в графе для списка смежности
+### DFS в графе для списка смежности
 
 Сложность: `O(N + M)`, где `N` - число вершин, `M` - число ребер.
 
@@ -64,7 +66,7 @@ def main():
     print(visited)  # [0, 1, 1, 1, 0]
 ```
 
-## DFS в графе для матрицы смежности
+### DFS в графе для матрицы смежности
 
 Сложность: `O(N^2)`, где `N` - число вершин.
 
