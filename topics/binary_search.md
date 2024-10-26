@@ -13,6 +13,7 @@
 
 - [![LeetCode](https://img.shields.io/badge/LeetCode-00b8a3)](https://leetcode.com/problems/search-insert-position) Search Insert Position
 - [![LeetCode](https://img.shields.io/badge/LeetCode-00b8a3)](https://leetcode.com/problems/binary-search) Binary Search
+- [![LeetCode](https://img.shields.io/badge/LeetCode-00b8a3)](https://leetcode.com/problems/valid-perfect-square) Valid Perfect Square
 - [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) Find First and Last Position of Element in Sorted Array
 - [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/search-in-rotated-sorted-array) Search in Rotated Sorted Array
 - [![LeetCode](https://img.shields.io/badge/LeetCode-ffc01e)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) Search in Rotated Sorted Array II
