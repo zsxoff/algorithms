@@ -72,7 +72,7 @@ def binsearch_l(nums: list[int], target: int) -> int:
             r = m - 1
         else:
             # Проверка на достижение левой границы элемента
-            if m == 0 or nums[m - 1] != nums[m]:
+            if m == 0 or nums[m] != nums[m - 1]:
                 return m
             else:
                 r = m - 1
