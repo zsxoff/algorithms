@@ -63,7 +63,7 @@ def main():
 
     dfs(graph, 0, visited)
 
-    print(visited)  # [0, 1, 1, 1, 0]
+    print(visited)  # [1, 1, 1, 1, 0]
 ```
 
 ### DFS в графе для матрицы смежности
