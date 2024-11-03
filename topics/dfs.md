@@ -10,6 +10,7 @@
 - [![LeetCode](https://img.shields.io/badge/LeetCode-00b8a3)](https://leetcode.com/problems/island-perimeter) Island Perimeter
 - [![LeetCode](https://img.shields.io/badge/LeetCode-00b8a3)](https://leetcode.com/problems/flood-fill) Flood Fill
 - [![LeetCode](https://img.shields.io/badge/LeetCode-00b8a3)](https://leetcode.com/problems/number-of-islands) Number of Islands
+- [![LeetCode](https://img.shields.io/badge/LeetCode-ff375f)](https://leetcode.com/problems/reconstruct-itinerary) Reconstruct Itinerary
 
 ## Алгоритмы
 
