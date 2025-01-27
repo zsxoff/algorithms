@@ -40,7 +40,7 @@ graph = [
 
 ### DFS в графе для списка смежности
 
-Сложность: `O(N + M)`, где `N` - число вершин, `M` - число ребер.
+Сложность: `O(V + E)`, где `V` - число вершин, `E` - число ребер.
 
 ```python
 def dfs(graph: dict[int, set[int]], v: int, visited: list[int]) -> None:
@@ -69,7 +69,7 @@ def main():
 
 ### DFS в графе для матрицы смежности
 
-Сложность: `O(N^2)`, где `N` - число вершин.
+Сложность: `O(V^2)`, где `V` - число вершин.
 
 ```python
 def dfs(graph: list[list[int]], v: int, visited: list[int]) -> None:
