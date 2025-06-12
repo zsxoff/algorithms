@@ -8,9 +8,9 @@
 
 Отдельные задачи:
 
-- [https://leetcode.com/problems/last-stone-weight](Last Stone Weight)
-- [https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array](Maximum Product of Two Elements in an Array)
-- [https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum](Find Subsequence of Length K With the Largest Sum)
+- [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
+- [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)
+- [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum)
 
 ## Теория
 
