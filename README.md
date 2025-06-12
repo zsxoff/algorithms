@@ -8,6 +8,7 @@
 - String
 - Hash Table
 - Stack & Queue
+- [Heap (Priority Queue)](topics/heapq.md)
 - [Binary Search](topics/binary_search.md)
 - [Linked List](topics/linked_list.md)
 - Tree
